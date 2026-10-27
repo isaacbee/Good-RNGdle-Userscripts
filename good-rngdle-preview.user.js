@@ -112,14 +112,14 @@
     toggle.hidden = true;
     let lastCandidates = [];
 
-    // Collapse the details and keep the toggle's label and accessibility state in sync.
+    // Collapse the details.
     function hidePreviewInfo() {
         panel.hidden = true;
         toggle.setAttribute("aria-expanded", "false");
         toggle.textContent = "Show info";
     }
 
-    // Toggle the candidate details without affecting the game's card selection.
+    // Toggle the numbers' details.
     toggle.addEventListener("click", () => {
         panel.hidden = !panel.hidden;
         toggle.setAttribute("aria-expanded", String(!panel.hidden));
