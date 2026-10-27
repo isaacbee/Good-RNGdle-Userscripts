@@ -7,8 +7,11 @@ A collection of tools for [Good RNGdle](https://prod.kr/dle/2)
 ### Installing
 
 * Install [Tampermonkey](https://www.tampermonkey.net/) on your preferred browser
-* Open the script you want in github (i.e. [Good RNGdle Number Preview](https://github.com/isaacbee/Good-RNGdle-Userscripts/blob/main/good-rngdle-preview.user.js))
+* Open the javascript file you want to download in github (i.e. [Good RNGdle Number Preview](https://github.com/isaacbee/Good-RNGdle-Userscripts/blob/main/good-rngdle-preview.user.js))
 * Install a script by clicking the **Raw** button
+<img width="550" height="46" alt="image" src="https://github.com/user-attachments/assets/3b347d8b-0355-46ae-a8bc-b34ccf2d5911" />
+
+
 
 ## Userscripts
 
